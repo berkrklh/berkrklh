@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Şu anda frontend & backend becerilerimi geliştiriyorum  <br>👯 Gerçek projelerde iş birliği yapmak istiyorum  <br>🤝 İleri seviye Java konularında yardım arıyorum  <br>🌱 Java ve yazılım mimarisi öğreniyorum  <br>💬 HTML, C# ve web geliştirme hakkında sorabilirsin  <br>⚡ Fun fact: 12 yaşımdan beri kod yazıyorum
+🔭 Şu anda frontend & backend becerilerimi geliştiriyorum  <br>👯 Gerçek projelerde iş birliği yapmak istiyorum  <br>🤝 İleri seviye Java konularında yardım arıyorum  <br>🌱 Java ve yazılım mimarisi öğreniyorum  <br>💬 HTML, C# ve web geliştirme hakkında sorabilirsin  <br>
 
 
 # 💻 Tech Stack:
